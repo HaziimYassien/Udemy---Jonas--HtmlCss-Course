@@ -1,12 +1,12 @@
-#section{
+.carouseal{
+  width: 800px;
+  margin: 100px auto;  
+  background-color: #023047;
+  border-raduis: 8px;
+  color: #fff;
+  padding: 32px;
 }
 
-#image{
-    width: 2000px;
-    height: 2000px;
-    object-fit: none;
-    object-position: 900px 600px;
-}
-
-#text{
+img{
+  height: 200px;
 }
