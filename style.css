@@ -2,16 +2,34 @@ div {
   color: green;
   display: flex;
   flex-direction: row;
+  background-color: #EFD595;
+width: min-content;
+height: min-content;
+  color: #162931;
 }
 
 p {
   width: 10px;
   height: 10px;
   padding: 10px;
+  margin: 1px;
+  background-color: #023047;
+  color: #ffb703;
+}
+p:hover {
+  background-color: #ffb703;
+  color: #023047;
 }
 
 i {
   padding: 10px;
   width: 10 px;
   height: 10px;
+  background-color: #14213d;
+  color: #fca311
+}
+
+i:hover {
+  color: #14213d;
+  background-color: #fca311;
 }
