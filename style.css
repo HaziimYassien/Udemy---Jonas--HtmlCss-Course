@@ -19,6 +19,9 @@ p {
 p:hover {
   background-color: #ffb703;
   color: #023047;
+   border-radius: 150px;
+  width: 20px;
+  height: 20px;
 }
 
 i {
@@ -32,4 +35,8 @@ i {
 i:hover {
   color: #14213d;
   background-color: #fca311;
+     border-radius: 150px;
+  width: 20px;
+  height: 20px;
+}
 }
